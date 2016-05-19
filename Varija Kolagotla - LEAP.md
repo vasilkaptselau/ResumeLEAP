@@ -30,7 +30,7 @@ SQL, T-SQL, C, FoxPro, Crystal Reports, BaaN IV and V
 ***BaaN ERP (BaaN V) , Oracle 8, Crystal Reports 8.0.***
 
 ***BHEL, INDIA (1990 - 1997)***  
->Electronics Engineer who was responsible for designing AC Drive Systems with microcontrollers and C Language. Using FoxPro developed systems for Material Management, Inventory Control, BOM and Production Planning. Planning monthly production rates in constraint with production routing and structure and achieve optimum capacity utilization by introducing state-of-the-art instruments for the assembly of PLCC chips and FPGAs.
+>Electronics Engineer who was responsible for designing AC Drive Systems with microcontrollers and C Language. Using FoxPro, developed systems for Material Management, Inventory Control, BOM and Production Planning. 
   
   
   
