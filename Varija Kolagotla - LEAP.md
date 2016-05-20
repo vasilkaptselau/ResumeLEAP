@@ -29,7 +29,7 @@ SQL, T-SQL, C, FoxPro, Crystal Reports, BaaN IV and V
 > Worked in various implementation and maintenance projects for customers located in Taiwan, India and US. Have experience in development space related to - Forms & reports customization in Manufacturing, Distribution and Finance modules using BaaN source code to suit user requirements. Have experience in integration, conversion and EDI space as well.  
 ***BaaN ERP (BaaN V) , Oracle 8, Crystal Reports 8.0.***
 
-***BHEL, INDIA (1990 - 1997)***  
+**BHEL, INDIA (1990 - 1997)**  
 >Electronics Engineer who was responsible for designing AC Drive Systems with microcontrollers and C Language. Using FoxPro, developed systems for Material Management, Inventory Control, BOM and Production Planning. 
   
   
